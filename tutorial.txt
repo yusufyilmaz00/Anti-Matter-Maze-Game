@@ -1,0 +1,63 @@
+	________________________	
+	|                      |
+	|   ANTI-MATTER MAZE   |
+	|______________________|
+
+  Anti-matter maze kind of maze game that you try to collect correct objects and to find out exit. 
+  In this case objects are subatomic particles { P+ , P- , e+ , e-}. 
+
+  The gamer starts the marked starting point on the map and goes to the exit point.
+  Purpose is collecting P- and e+ particles to produce antihydrogen. 
+
+  Particles:
+    P+ : proton 
+    e- : electron 
+    P- : antiproton 
+    e+ : antielectron 
+
+  Here are some Rules:
+   - To produce antihydrogen you only have P- and e+ .
+     If you have any other particles, then you do not exit the maze.
+
+   - If a particle and their anti-particle come together, then particles destroy each other.
+
+   - There is a black hole, which demonstrate with the letter 'K'. 
+     If you hover over the letter K by moving, then game is over.
+
+   - If you do not finish the game on time, then the game is over.
+
+	________________________	
+	|                      |
+	|   LOGIN & SIGN-IN    |
+	|______________________|
+
+  - After the game is opened, the login screen appears. The user logs in with his game account,
+  and if he does not have one, he creates a new one.
+
+  - There cannot be more than one username with the same username.
+
+  - After logging in, the game menu opens.  
+
+	________________________	
+	|                      |
+	|       GAMEPLAY       |
+	|______________________|
+
+  - Just use arrows (up, down, left, right) on your keyboard to keep moving.
+
+
+    _________________________________
+    |                               | 
+    |           CREDITS             |
+    |_______________________________|
+    |                               |
+    | Coded by Yusuf Yilmaz         |
+    |                               |
+    | github: @yusufyilmaz00        |
+    |                               |
+    | @Yildiz Technical University  |
+    |_______________________________|
+
+
+
+
